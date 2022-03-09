@@ -17,3 +17,4 @@ Solutions to Questions from LeetCode
 |11.   | 1041.      |   Medium.  | [Robot Bound in Circle](1041._Robot_Bounded_In_Cir20robot20bounded20in20circle.pdf)|
 |12.   | 70.        |   Easy.    | [Climbing Stairs](70_climbing_stairs.pdf)                                          |
 |13.   | 73.        |   Medium.  | [Set Matrix Zeros](73_set_matrix_zeroes.pdf)                                       |
+|14.   | 79.        |   Medium.  | [Word Search](79_word_search.pdf)                                                  |
