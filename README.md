@@ -16,3 +16,4 @@ Solutions to Questions from LeetCode
 |10.   | 697.       |   Easy.    | [Degree of an Array](697._Degree_of_an_A20degree20of20an20array.pdf)               |
 |11.   | 1041.      |   Medium.  | [Robot Bound in Circle](1041._Robot_Bounded_In_Cir20robot20bounded20in20circle.pdf)|
 |12.   | 70.        |   Easy.    | [Climbing Stairs](70_climbing_stairs.pdf)                                          |
+|13.   | 73.        |   Medium.  | [Set Matrix Zeros](73_set_matrix_zeroes.pdf)                                       |
