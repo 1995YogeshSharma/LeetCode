@@ -18,3 +18,4 @@ Solutions to Questions from LeetCode
 |12.   | 70.        |   Easy.    | [Climbing Stairs](70_climbing_stairs.pdf)                                          |
 |13.   | 73.        |   Medium.  | [Set Matrix Zeros](73_set_matrix_zeroes.pdf)                                       |
 |14.   | 79.        |   Medium.  | [Word Search](79_word_search.pdf)                                                  |
+|15.   | 61.        |   Medium.  | [Rotate List](61_rotate_list.pdf)                                                  |
