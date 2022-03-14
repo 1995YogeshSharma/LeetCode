@@ -20,3 +20,4 @@ Solutions to Questions from LeetCode
 |14.   | 79.        |   Medium.  | [Word Search](79_word_search.pdf)                                                  |
 |15.   | 61.        |   Medium.  | [Rotate List](61_rotate_list.pdf)                                                  |
 |16.   | 82.        |   Medium.  | [Remove Duplicates from sorted list II](82_remove_duplicates_from_sorted_list_II.pdf)|
+|17.   | 71.        |   Medium.  | [Simplify Path](71_simplify_path.pdf)                                              |
