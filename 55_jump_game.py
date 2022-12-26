@@ -14,24 +14,13 @@ Iterate right to left, keep leftMostJumpable O(n)
 from typing import List
 
 class Solution:
-    visitable: List[int] = []
     leftMostJumpable: int = -1
-
-    def checkJump(self, nums: List[int], idx: int):
-        if idx + nums[idx] >= self.leftMostJumpable:
-            self.leftMostJumpable = idx
-            return
 
     def canJump(self, nums: List[int]) -> bool:
         length = len(nums)
-        self.visitable = [-1]*length
-
-        self.visitable[length - 1] = 1
-
         self.leftMostJumpable = length - 1
         for i in range(length-2, -1, -1):
-            self.checkJump(nums, i)
+            if i + nums[i] >= self.leftMostJumpable:
+                self.leftMostJumpable = i
 
         return self.leftMostJumpable == 0
-
-
